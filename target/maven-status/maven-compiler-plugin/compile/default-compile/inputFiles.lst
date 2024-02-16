@@ -1,0 +1,12 @@
+D:\Backup\Personal Projects\sender\src\main\java\com\marcioflavio\sender\core\exceptions\BlankBodyException.java
+D:\Backup\Personal Projects\sender\src\main\java\com\marcioflavio\sender\core\exceptions\EmailServiceException.java
+D:\Backup\Personal Projects\sender\src\main\java\com\marcioflavio\sender\service\EmailSmsService.java
+D:\Backup\Personal Projects\sender\src\main\java\com\marcioflavio\sender\infra\ses\SesEmailSender.java
+D:\Backup\Personal Projects\sender\src\main\java\com\marcioflavio\sender\core\EmailSenderUseCase.java
+D:\Backup\Personal Projects\sender\src\main\java\com\marcioflavio\sender\infra\ses\AwsSesConfig.java
+D:\Backup\Personal Projects\sender\src\main\java\com\marcioflavio\sender\service\SmsService.java
+D:\Backup\Personal Projects\sender\src\main\java\com\marcioflavio\sender\core\exceptions\UnknownDestException.java
+D:\Backup\Personal Projects\sender\src\main\java\com\marcioflavio\sender\entity\EmailSmsEntity.java
+D:\Backup\Personal Projects\sender\src\main\java\com\marcioflavio\sender\controller\EmailSenderController.java
+D:\Backup\Personal Projects\sender\src\main\java\com\marcioflavio\sender\SenderApplication.java
+D:\Backup\Personal Projects\sender\src\main\java\com\marcioflavio\sender\adapters\EmailSenderGateway.java
