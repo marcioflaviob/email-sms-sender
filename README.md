@@ -6,9 +6,9 @@ An API that sends an email and SMS at the same time to someone. It uses abstract
 
 ## API's used
 
- - AWS Simple Email Service
- - Spark Post (in case AWS fails)
- - Twilio (for SMS)
+ - [AWS Simple Email Service](https://aws.amazon.com/ses/)
+ - [Spark Post](https://app.sparkpost.com/auth) _- in case AWS fails_
+ - [Twilio](https://www.twilio.com/en-us) _- for SMS_
 
 
 ## API Documentation (How it works)
